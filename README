@@ -1,9 +1,9 @@
+1. GTEX-co-exp.csv
+Expression correlation between HSP pairs in GTEx. Refer to Figure 1B-C.
+1. TCGA-co-exp.csv
+Expression correlation between HSP pairs in GTEx. Refer to Figure 1B-C.
 1. GTEX-TCGA-coExp-pair.csv
-Significant correlation in GTEx and TCGA. Refer to Figure 1B-1C.
-2. GTEX-co-exp.csv
-Expression correlation between HSP pairs in GTEx. Refer to Figure 1C.
-3. TCGA-co-exp.csv
-Expression correlation between HSP pairs in GTEx. Refer to Figure 1C.
+Significant correlation in GTEx and TCGA. Refer to Figure 1B-C.
 4. DifferentialExpression.csv
 HSPs with significant expression alternation. Refer to Figure 2A.
 5. HSPvsClinicallyRelevantEvents.xlsx
