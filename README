@@ -1,0 +1,20 @@
+1. GTEX-TCGA-coExp-pair.csv
+Significant correlation in GTEx and TCGA. Refer to Figure 1B-1C.
+2. GTEX-co-exp.csv
+Expression correlation between HSP pairs in GTEx. Refer to Figure 1C.
+3. TCGA-co-exp.csv
+Expression correlation between HSP pairs in GTEx. Refer to Figure 1C.
+4. DifferentialExpression.csv
+HSPs with significant expression alternation. Refer to Figure 2A.
+5. ClinicallyRelevantEvents.xlsx
+All significant clinically relevant HSPs in stage, survival, subtype and grade. Refer to Figure 2B.
+6. Proliferation.csv
+Correlation between HSP and proliferation score. Refer to Figure 3A.
+7. Proliferation.csv
+Proliferation score across HSP knocking out cell lines. Refer to Figure 3B-C.
+8. EMT-GSEA.csv
+GSEA enrichment. Refer to Figure 4A.
+9. Hallmark1.xlsx
+Significant association between HSP and cancer hallmarks. Refer to Figure 6A.
+
+
